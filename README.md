@@ -1,6 +1,10 @@
 # black_jack
 
-A new Flutter project.
+A new Flutter project. I created this Blackjack game. The new thing that I learned while making this app is how to implement the Stack widget.
+
+## Demo
+![BLACKJACK GAME](https://user-images.githubusercontent.com/81378260/155659556-9da8ee20-67b1-4807-ae21-63534c92cde7.png)
+
 
 ## Getting Started
 
